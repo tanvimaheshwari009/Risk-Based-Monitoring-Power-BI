@@ -241,23 +241,6 @@ Future versions may include:
 
 ---
 
-## Author
-
-**Tanvi Maheshwari**
-
-Bachelor of Pharmacy (B.Pharm)
-
-Interested in:
-
-- Clinical Research
-- Clinical Data Management
-- Risk-Based Monitoring (RBM)
-- Clinical Data Analytics
-- SQL
-- Power BI
-
- ---
-
 ## Disclaimer
 
 This project is created solely for educational and portfolio purposes using simulated clinical trial data. It does not represent any real clinical study or patient information.
@@ -267,6 +250,3 @@ This project is created solely for educational and portfolio purposes using simu
 ## Author
 Tanvi Maheshwari
 B.Pharm | Clinical Research | Power BI | SQL
-
-
-Interested in Clinical Research, Clinical Data Management, Risk-Based Monitoring and Data Analytics.
